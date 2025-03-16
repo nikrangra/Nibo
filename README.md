@@ -1,2 +1,3 @@
 # Nibo
-Local storage programmer
+this is my first repository 
+author Nikrangra 
