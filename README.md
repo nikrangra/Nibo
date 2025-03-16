@@ -1,2 +1,2 @@
 # Nibo
-Local storage programmer 🤣
+Local storage programmer
